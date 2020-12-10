@@ -1,0 +1,14 @@
+{
+    "name": "zubs/fake_code",
+    "description": "My codebase for Introduction to composer article",
+    "type": "project",
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    },
+    "authors": [
+        {
+            "name": "Zubs",
+            "email": "zubairidrisaweda@gmail.com"
+        }
+    ]
+}
